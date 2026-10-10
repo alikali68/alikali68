@@ -47,7 +47,7 @@
 
 
 ### 🌱 Right now
-- 🔍 [RankPilot](https://github.com/alikali68/rankpilot) — data-driven SEO & technical website auditor
+- 🔍 [RankPilot](https://github.com/alikali68/rankpilot) — data-driven SEO & technical website auditor ([live demo](https://rankpilot-wvugccwcscig6wdpe2pqiq.streamlit.app/))
 - 🎨 [PaletteSnap](https://github.com/alikali68/palettesnap) — extract color palettes from any image ([live demo](https://alikali68.github.io/palettesnap/))
 - 📝 A new dev tip every day → [daily-dev-tips](https://github.com/alikali68/daily-dev-tips)
 - 💡 A new project idea every week → [weekly-project-ideas](https://github.com/alikali68/weekly-project-ideas)
