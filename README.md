@@ -39,6 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikali68&layout=compact&theme=tokyonight)
 
 ### 🌱 Right now
+- 🎨 [PaletteSnap](https://github.com/alikali68/palettesnap) — extract color palettes from any image ([live demo](https://alikali68.github.io/palettesnap/))
 - 📝 A new dev tip every day → [daily-dev-tips](https://github.com/alikali68/daily-dev-tips)
 - 💡 A new project idea every week → [weekly-project-ideas](https://github.com/alikali68/weekly-project-ideas)
 
