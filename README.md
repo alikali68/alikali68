@@ -1,8 +1,11 @@
 # Hi there, I'm Ali Maleki 👋
 
+
 **Full-stack developer & designer** — I build fast, modern web apps and the visual identities behind them.
 
+
 ---
+
 
 ### 🛠️ What I do
 - **Frontend Development** — React, responsive interfaces that feel instant on any device
@@ -12,6 +15,7 @@
 - **Banners & Marketing Graphics** — visuals that stop the scroll
 - **Content Writing** — clear, SEO-friendly copy that converts
 - **Photo Retouching** — magazine-finish polish
+
 
 ### 💻 Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,6 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+
 ### 💼 Open for freelance
 | Tier | Rate | Best for |
 |------|------|----------|
@@ -32,16 +37,21 @@
 | Professional | $18/hr | custom builds & design work |
 | Premium | $25/hr | complex or urgent projects |
 
+
 💰 Paid in crypto (USDT / USDC) — [hire me on LaborX](https://laborx.com/freelancers/users/id473540)
+
 
 ### 📊 GitHub stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikali68&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikali68&layout=compact&theme=tokyonight)
 
+
 ### 🌱 Right now
+- 🔍 [RankPilot](https://github.com/alikali68/rankpilot) — data-driven SEO & technical website auditor
 - 🎨 [PaletteSnap](https://github.com/alikali68/palettesnap) — extract color palettes from any image ([live demo](https://alikali68.github.io/palettesnap/))
 - 📝 A new dev tip every day → [daily-dev-tips](https://github.com/alikali68/daily-dev-tips)
 - 💡 A new project idea every week → [weekly-project-ideas](https://github.com/alikali68/weekly-project-ideas)
+
 
 ### 📫 Find me
 - 𝕏 → [@alikali68](https://x.com/alikali68)
